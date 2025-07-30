@@ -1,0 +1,1 @@
+// Implementar un sistema de tipos para un carrito de compras con funciones para añadir/eliminar productos y calcular el total.

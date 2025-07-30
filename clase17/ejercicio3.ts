@@ -1,0 +1,1 @@
+// Convertir una función JavaScript existente a TypeScript añadiendo tipos adecuados.

@@ -6,6 +6,7 @@
   "scripts": {
     "start:e1": "ts-node ejercicio1.ts",
     "start:e2": "ts-node ejercicio2.ts",
+    "start:e3": "ts-node ejercicio3.ts",
     "build": "tsc"
   },
   "keywords": [],
