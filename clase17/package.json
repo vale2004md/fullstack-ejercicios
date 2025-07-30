@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.ts",
+    "start:e1": "ts-node ejercicio1.ts",
+    "start:e2": "ts-node ejercicio2.ts",
     "build": "tsc"
   },
   "keywords": [],
@@ -12,6 +13,7 @@
   "license": "ISC",
   "packageManager": "pnpm@10.11.1",
   "devDependencies": {
+    "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   }
 }
