@@ -1,0 +1,6 @@
+#ignorar dependencias, archivos temporales y compilados 
+node_modules/
+dist/
+*.log
+.env
+.DS_Store
