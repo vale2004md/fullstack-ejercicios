@@ -4,3 +4,6 @@ dist/
 *.log
 .env
 .DS_Store
+clase23/postgres/
+clase23/pgadmin/sessions/
+clase23/pgadmin/storage/
